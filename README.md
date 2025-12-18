@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 <h3 align="center">Exploring Generative AI | ML & DL Enthusiast | Crafting Scalable Solutions</h3>
 
-- I'm currently working **on projects that integrate Cloud Computing, Data Science, and AI/ML pipelines to build scalable, intelligent systems.**
+
+I’m an **AI & Generative AI student** interested in building **automated ML and LLM pipelines** that transform raw data into reliable, usable systems.
+
+My focus is on **end-to-end AI workflows** — including data ingestion, preprocessing, model training, evaluation, and inference — with attention to **automation, scalability, and reproducibility**.
+
+I enjoy working on:
+- 🤖 Automated ML and AI pipelines  
+- 🧠 LLM-based workflows and inference systems  
+- ⚙️ Data → Model → Output pipelines  
+- 📊 Applied machine learning and system design  
+
+I aim to design AI systems that are **repeatable, robust, and easy to integrate into larger applications**.
+
 
 - 👨‍💻 All of my projects are available at [https://kushalmandala.netlify.app/](https://kushalmandala.netlify.app/)
 
