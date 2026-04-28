@@ -4,7 +4,7 @@
 
 I’m an **AI & Generative AI student** interested in building **automated ML and LLM pipelines** that transform raw data into reliable, usable systems.
 
-My focus is on **end-to-end AI workflows** — including data ingestion, preprocessing, model training, evaluation, and inference — with attention to **automation, scalability, and reproducibility**.
+My focus is on **end-to-end AI workflows**  including data ingestion, preprocessing, model training, evaluation, and inference  with attention to **automation, scalability, and reproducibility**.
 
 I enjoy working on:
 - 🤖 Automated ML and AI pipelines  
